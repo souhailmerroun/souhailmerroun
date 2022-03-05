@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I'm work full time with https://github.com/pennylane-hq
+I work full time with https://github.com/pennylane-hq
 
 There are some projects i work on:
 - https://github.com/cryptoyell
