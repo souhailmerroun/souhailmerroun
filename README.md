@@ -1,2 +1,17 @@
 ### Hello World 👋
 
+I'm work full time with https://github.com/pennylane-hq
+
+There are some projects i work on:
+- https://github.com/cryptoyell
+- https://github.com/hippocommandus
+
+I sharpen my swords and test concepts on
+- https://github.com/souhailmerroun-practice
+- https://github.com/souhailmerroun-poc
+
+Besides code, I write on https://github.com/souhailmerroun-writing
+
+and that about it.
+
+You can find more infos on my website. https://souhailmerroun.xyz
