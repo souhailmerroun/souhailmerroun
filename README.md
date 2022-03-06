@@ -3,7 +3,7 @@
 I work full time with https://github.com/pennylane-hq
 
 There are some projects i work on:
-- https://github.com/cryptoyell
+- https://github.com/cryptotools-xyz
 - https://github.com/hippocommandus
 - https://github.com/timers-countdowns
 - skrilla
