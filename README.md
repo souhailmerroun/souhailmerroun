@@ -6,7 +6,7 @@ There are some projects i work on:
 - https://github.com/cryptotools-xyz
 - https://github.com/hippocommandus
 - https://github.com/timers-countdowns
-- skrilla
+- https://github.com/skrilla-xyz
 
 I sharpen my swords and test concepts on
 - https://github.com/souhailmerroun-practice
