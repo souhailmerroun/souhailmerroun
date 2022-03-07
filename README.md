@@ -18,3 +18,11 @@ Besides code, I write on https://github.com/souhailmerroun-writing
 and that about it.
 
 You can find more infos on my website. https://souhailmerroun.xyz
+
+___
+
+WIP notes:
+- photography as a service
+- digital business card (1 links -> many links)
+- YouTube Dashboard
+- same as snippetviewer with (with cloud integration, with sharing, when clicking on a page, like javascript i can see all the snippets at once and then go through folder, seperate already visual code snippet)
