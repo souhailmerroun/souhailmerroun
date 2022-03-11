@@ -26,3 +26,4 @@ WIP notes:
 - digital business card (1 links -> many links)
 - YouTube Dashboard
 - same as snippetviewer with (with cloud integration, with sharing, when clicking on a page, like javascript i can see all the snippets at once and then go through folder, seperate already visual code snippet)
+- your twitter feed in slack. choose what account can post in what channel. token in music. adamwathan in dev. 
