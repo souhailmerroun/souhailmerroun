@@ -9,7 +9,6 @@ There are some projects i work on:
 - https://github.com/skrilla-xyz
 - https://github.com/tweets-slack
 - last.fm for youtube
-- spotify monthly listeners api display
 
 I sharpen my swords and test concepts on
 - https://github.com/souhailmerroun-practice
