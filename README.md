@@ -9,7 +9,6 @@ There are some projects i work on:
 - https://github.com/timers-countdowns
 - https://github.com/skrilla-xyz
 - https://github.com/javascript-ecosystem
-- last.fm for youtube
 
 I sharpen my swords and test concepts on
 - https://github.com/souhailmerroun-practice
