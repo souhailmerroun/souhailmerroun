@@ -17,6 +17,3 @@ Besides code,
 - I write on https://github.com/souhailmerroun-writing
 
 and that about it.
-
-You can find more infos on my website. 
-- https://souhailmerroun.xyz
