@@ -6,7 +6,7 @@
 
 ## Practice (learning method)
 - [Github Organisation: souhailmerroun-practice](https://github.com/souhailmerroun-practice) 
-- [Github Organisation: souhailmerroun-poct](https://github.com/souhailmerroun-poc)
+- [Github Organisation: souhailmerroun-poc](https://github.com/souhailmerroun-poc)
 
 ## Business idea
 - https://github.com/cryptotools-xyz
