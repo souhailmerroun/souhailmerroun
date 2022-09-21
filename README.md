@@ -1,6 +1,14 @@
-### Hello World 👋
+### About
 
-There are some projects i work on:
+## Web presence
+- [LinkedIn: Software Engineer](https://www.linkedin.com/in/souhail-merroun-a600601bb)
+- [LinkedIn: Entrepreneur](https://www.linkedin.com/in/souhail-merroun-261147251)
+
+## Practice (learning method)
+- [Github Organisation: souhailmerroun-practice](https://github.com/souhailmerroun-practice) 
+- [Github Organisation: souhailmerroun-poct](https://github.com/souhailmerroun-poc)
+
+## Business idea
 - https://github.com/cryptotools-xyz
 - https://github.com/hippocommandus
 - https://github.com/tweets-slack
@@ -9,11 +17,8 @@ There are some projects i work on:
 - https://github.com/javascript-ecosystem
 - https://github.com/youtube-improved
 
-I sharpen my swords and test concepts on
-- https://github.com/souhailmerroun-practice
-- https://github.com/souhailmerroun-poc
+- []()
 
-Besides code, 
-- I write on https://github.com/souhailmerroun-writing
+## Business failure
 
-and that about it.
+
