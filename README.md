@@ -11,7 +11,6 @@
 
 ## Business idea
 - [Github Organisation: javascript-ecosystem](https://github.com/javascript-ecosystem)
-- [Github Organisation: cryptotools-xyz](https://github.com/cryptotools-xyz)
 - [Github Organisation: hippocommandus](https://github.com/hippocommandus)
 - [Github Organisation: tweets-slack](https://github.com/tweets-slack)
 - [Github Organisation: timers-countdowns](https://github.com/timers-countdowns)
@@ -22,4 +21,5 @@
 
 ## Business failure
 
+- [Github Organisation: cryptotools-xyz](https://github.com/cryptotools-xyz)
 - [Github Organisation: youtube-improved](https://github.com/youtube-improved)
