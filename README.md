@@ -7,11 +7,11 @@
 ## Practice (learning method)
 - [Github Organisation: souhailmerroun-practice](https://github.com/souhailmerroun-practice) 
 - [Github Organisation: souhailmerroun-poc](https://github.com/souhailmerroun-poc)
-- [Github Organisation: souhailmerroun-poc](https://github.com/souhailmerroun-clone)
+- [Github Organisation: souhailmerroun-clone](https://github.com/souhailmerroun-clone)
 
 ## Business idea
 - [Github Organisation: business-card-nfc](https://github.com/business-card-nfc)
-- [Github Organisation: business-card-nfc](https://github.com/carl-the-bartender)
+- [Github Organisation: carl-the-bartender](https://github.com/carl-the-bartender)
 
 ## Business failure
 
