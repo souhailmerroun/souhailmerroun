@@ -1,6 +1,9 @@
 # About
 
-I build web apps, web apis and mobile apps. 
+I build 
+- [web apps](./docs/web.app.md),
+- web apis,
+- and mobile apps. 
 
 ## Web presence
 - [LinkedIn: Software Engineer](https://www.linkedin.com/in/souhail-merroun-a600601bb)
