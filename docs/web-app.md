@@ -1,50 +1,36 @@
 # Web app
 
-## IDE
+IDE
+- https://docs.github.com/en/codespaces
 
-Github Codespaces & Visual Studio Code
+Framework
+- https://create-react-app.dev/docs/adding-typescript
+- https://www.typescriptlang.org/docs/handbook/react.html
 
-## Programming language
+Continous integration
+- https://docs.github.com/en/actions/quickstart
+- https://github.com/marketplace/actions/setup-node-js-environment
+- https://github.com/nektos/act
 
-Typescript
+Code quality
+- https://github.com/typicode/husky
+- https://pre-commit.com
+- https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+- https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 
-## Framework
+Tests
+- https://www.cypress.io/blog/2021/04/06/cypress-component-testing-react
+- https://jestjs.io/docs/tutorial-react
+- https://testing-library.com/docs/react-testing-library/intro/
+- https://about.codecov.io
 
-create-react-app or next.js
+Continious deployment
+- https://github.com/marketplace/actions/deploy-to-heroku
 
-### Packages
+UI
+- https://storybook.js.org
+- https://tailwindcss.com/docs/guides/create-react-app
+- https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
 
-- react-table
-- react-query
-- useForm
-
-## Continuous integration
-
-Github Actions & act
-
-## Code quality
-
-Husky & pre-commit
-- ESLint
-- Prettier
-
-## Tests
-
-- Cypress
-- JEST
-- Codecov
-- React-testing-library
-
-## Continious deployment
-
-- Deploy to Heroku
-
-## UI
-
-- Storybook UI
-- Tailwind
-
-## Bug
-
-- Sentry
-
+Bug
+- https://docs.sentry.io/platforms/javascript/guides/react
