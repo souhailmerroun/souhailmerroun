@@ -1,4 +1,6 @@
-### About
+# About
+
+I build web apps, web apis and mobile apps. 
 
 ## Web presence
 - [LinkedIn: Software Engineer](https://www.linkedin.com/in/souhail-merroun-a600601bb)
@@ -18,9 +20,7 @@
 
 - [Github Organisation: cryptotools-xyz](https://github.com/cryptotools-xyz)
 - [Github Organisation: youtube-improved](https://github.com/youtube-improved)
-
 .....
-
 - [Github Organisation: hippocommandus](https://github.com/hippocommandus)
 - [Github Organisation: tweets-slack](https://github.com/tweets-slack)
 - [Github Organisation: timer-stopwatch](https://github.com/timer-stopwatch)
