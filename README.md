@@ -1,13 +1,11 @@
 # About
 
+Full-time [software engineer](CBqmEByKn8EE5d) and aspiring to be [entrepreneur](https://www.linkedin.com/in/souhail-merroun-261147251). 
+
 I build 
 - [web apps](https://empty-wormhole-b96.notion.site/Web-app-a78c31afca08443eaa9115a84e6441f2),
 - web apis,
-- and mobile apps. 
-
-## Web presence
-- [LinkedIn: Software Engineer](https://www.linkedin.com/in/souhail-merroun-a600601bb)
-- [LinkedIn: Entrepreneur](https://www.linkedin.com/in/souhail-merroun-261147251)
+- and mobile apps.
 
 ## Practice (learning method)
 - [Github Organisation: souhailmerroun-practice](https://github.com/souhailmerroun-practice) 
