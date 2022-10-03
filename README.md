@@ -1,7 +1,7 @@
 # About
 
 I build 
-- [web apps](./docs/web.app.md),
+- [web apps](https://www.notion.so/Web-app-a78c31afca08443eaa9115a84e6441f2),
 - web apis,
 - and mobile apps. 
 
