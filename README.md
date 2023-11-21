@@ -16,12 +16,12 @@ I use the following repositories for my freelance projects:
 
 Career Portfolio: 
 This repository showcases apps I've built to demonstrate my skills:
-- https://github.com/souhailmerroun-career-portfolio
+- https://github.com/souhailmerroun-career-portfolio (WIP)
 
 Software Development & Proof of Concept Labs: 
 These repositories are where I practice programming frameworks, packages, and test ideas or proof-of-concept projects:
 
-- https://github.com/souhailmerroun-software-development
+- https://github.com/souhailmerroun-software-dev-practice
 - https://github.com/souhailmerroun-poc
 
 Archived Projects: 
